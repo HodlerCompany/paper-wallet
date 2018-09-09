@@ -29,7 +29,7 @@ If you discover a security vulnerability within this project, please send an e-m
 
 ## Credits
 
-- [Nayiem Willems] (https://github.com/NayiemWillems)
+- [Nayiem Willems](https://github.com/NayiemWillems)
 - [Alex Barnsley](https://github.com/alexbarnsley)
 - [Lúcio Rubens](https://github.com/luciorubeens)
 - [Juan Martín](https://github.com/j-a-m-l)
